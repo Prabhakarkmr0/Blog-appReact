@@ -1,0 +1,24 @@
+.Card {
+  margin-bottom: 40px;
+  width: 300px;
+  margin-right: 10px;
+  margin-left: 10px;
+  /* display: flex; */
+}
+
+.Card__thumbnail {
+  height: 200px;
+  width: 300px;
+  margin-bottom: 0px;
+}
+
+.Card__info {
+  display: flex;
+  /* margin-top: 10px; */
+  padding-right: 30px;
+  margin-bottom: 10px;
+}
+
+.Card__text {
+  margin-left: 15px;
+}
